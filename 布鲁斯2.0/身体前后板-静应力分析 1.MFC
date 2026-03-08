@@ -1,0 +1,16 @@
+[StartTime]
+身体前后板-静应力分析 1.MFC=1s
+[SolverState]
+身体前后板-静应力分析 1.MFC=2
+[MainFrame]
+身体前后板-静应力分析 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+身体前后板-静应力分析 1.MFC=No
+[SolverType]
+身体前后板-静应力分析 1.MFC=线性分析
+[StudyType]
+身体前后板-静应力分析 1.MFC=0
+[StudyName]
+身体前后板-静应力分析 1.MFC=静应力分析 1
+[Solver]
+身体前后板-静应力分析 1.MFC=Sparse
